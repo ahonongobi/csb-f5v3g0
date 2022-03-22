@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ahonongobi.github.io/csb-f5v3g0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ahonongobi.github.io/csb-f5v3g0/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://ahonongobi.github.io/csb-f5v3g0/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://ahonongobi.github.io/csb-f5v3g0/static/js/runtime-main.019acf2e.js",
+    "runtime-main.js.map": "https://ahonongobi.github.io/csb-f5v3g0/static/js/runtime-main.019acf2e.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://ahonongobi.github.io/csb-f5v3g0/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://ahonongobi.github.io/csb-f5v3g0/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://ahonongobi.github.io/csb-f5v3g0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ahonongobi.github.io/csb-f5v3g0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://ahonongobi.github.io/csb-f5v3g0/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019acf2e.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
